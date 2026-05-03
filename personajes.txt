@@ -1,0 +1,15 @@
+Hercules,1,25,10
+Kratos,120,35,8
+Ares, 110,30,10
+Thor, 1,25,12
+Hades,130,20,10
+Zeus,1,22,7
+Snoopy,100,15,14
+Ironman,120,25,11
+Naruto,100,22,13
+Killua,120,15,12
+Mulan,130,27,10
+Hermione,100,25,12
+Julio César Chavez,1000,1000,15
+Bob esponja,110,18,14
+Winnie Pooh,138,12,22
