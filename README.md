@@ -14,12 +14,4 @@ Interfaz: Tkinter
 Lógica: Algoritmos de recursividad aplicada.
 Control de Versiones: Git / GitHub
 
-Aeterna-Pantheon/
-├── assets/             # Sprites, imágenes y sonidos
-├── src/                # Código fuente (.py)
-│   ├── logic/          # Motores de combate y recursividad
-│   └── gui/            # Definición de ventanas y menús
-├── docs/               # Documentación externa (Formato APA)
-└── main.py             # Punto de entrada del juego
-
 Este proyecto ha sido desarrollado por Felipe Andrés Carranza Masis como parte del curso de Ingeniería en Computadores en el Instituto Tecnológico de Costa Rica.
